@@ -1,0 +1,18 @@
+'(nil version 1.0 bBox ((0 18) (550 605)))
+(unless printInfoDpl
+printInfoDpl = (ncons nil)
+)
+(unless printInfoDpl->expTable
+printInfoDpl->expTable = (ncons nil)
+)
+(unless printInfoDpl->optionDpl
+printInfoDpl->optionDpl = (ncons nil)
+)
+printInfoDpl->width = nil
+printInfoDpl->numSpaces = nil
+printInfoDpl->title = nil
+printInfoDpl->xCol = nil
+printInfoDpl->noMerge = nil
+printInfoDpl->origStrList = nil
+printInfoDpl->printType = nil
+printInfoDpl->saveLoadFile = "/nfs/stak/users/shindes/ECE471/cadence/SunnyShinde_Project_ECE520/Backup_2/spectre_state1/printSetup.state"

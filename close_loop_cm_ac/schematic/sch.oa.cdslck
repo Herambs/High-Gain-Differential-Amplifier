@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      shindes
+HostName                       flip3.engr.oregonstate.edu
+ProcessIdentifier              23326
+ProcessCreationTime_UTC        1560573095
+ProcessCreationTime_Readable   Fri Jun 14 21:31:35 2019 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /nfs/stak/users/shindes/ECE471/cadence/SunnyShinde_Project_ECE520/close_loop_cm_ac/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Fri Jun 14 22:50:40 2019 PDT
